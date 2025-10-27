@@ -15,4 +15,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 7860
 
 # Comando para ejecutar Voila
-CMD ["voila", "proyecto_albergues_en_mexico.ipynb", "--port=7860", "--no-browser", "--Voila.ip=0.0.0.0"]
+CMD ["voila", "PROYECTO_ALBERGUES_EN_MÉXICO.ipynb", "--port=7860", "--no-browser", "--Voila.ip=0.0.0.0"]
