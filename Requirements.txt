@@ -1,0 +1,5 @@
+pandas
+folium
+ipywidgets
+branca
+voila
