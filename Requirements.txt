@@ -1,5 +1,7 @@
+voila==0.5.11
 pandas
+numpy
+plotly
 folium
-ipywidgets
-branca
-voila
+matplotlib
+jupyter
