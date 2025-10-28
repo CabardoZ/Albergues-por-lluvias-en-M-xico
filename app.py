@@ -32,8 +32,8 @@ p {color: #ccc; font-size: 16px;}
 st.markdown("<h1 style='text-align:center;'>🌀 Red de Albergues por Lluvias en México</h1>", unsafe_allow_html=True)
 st.markdown("""
 <p style='text-align:center; max-width:800px; margin:auto;'>
-Esta herramienta interactiva permite consultar la ubicación de <b>albergues temporales habilitados</b> 
-en distintos municipios del país ante afectaciones por lluvias.  
+Este mapa permite localizar los <b>albergues temporales habilitados</b> por los gobiernos de los estados afectados por las lluvias en el país.
+Si necesitas o conoces a alguien que requiere acceder a uno de los albergues, puedes dirigirte directamente mediante la opción "¿Cómo llegar?". 
 Filtra por entidad, municipio o busca directamente un nombre de albergue.
 </p>
 """, unsafe_allow_html=True)
